@@ -3,16 +3,16 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color:pink;
+    background-color:rgb(203, 74, 95);
 }
 
 h1 {
-    color:#101E53;
+    color:#e0e6fc;
     font-family: 'Pacifico', cursive;
     text-align: center;
     font-size: 70px;
     text-shadow: 0 4px 0 whitesmoke,
-                 0 20px 5px rgba(7, 6, 6, 0.1);
+                 0 20px 5px rgba(91, 213, 235, 0.1);
     animation: float 3s linear infinite;
     animation-direction:alternate;
 }
