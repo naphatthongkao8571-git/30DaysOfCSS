@@ -7,29 +7,29 @@ body {
 }
 
 h1 {
-  color:#101E53;
+  color:#12bb96;
   font-size: 70px;
 }
 
 @keyframes bgchange {
   0% {
-    background-color: #FBD6D7;
+    background-color: #b3bcd2;
   }
 
   20% {
-    background-color: #F2637C;
+    background-color: #0e3c8c;
   }
 
   40% {
-    background-color: #F8B5B6;
+    background-color: #08dfd8;
   }
 
   60% {
-    background-color: #D84D80;
+    background-color: #52799e;
   }
 
   80% {
-    background-color: #F490A0;
+    background-color: #0761e0;
   }
 
   100% {
